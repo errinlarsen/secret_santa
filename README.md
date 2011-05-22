@@ -8,11 +8,11 @@ Participants can be entered interactively via STDIN, or can be listed, one per l
 
 ### Interactive
 
-    $ secret_santa
+    secret_santa
 
 ### With input files
 
-    $ secret_santa input_file_1 input_file_2
+    secret_santa input_file_1 input_file_2
 
 ## Install
 
